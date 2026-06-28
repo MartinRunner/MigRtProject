@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: MigRtProject
+  gitServerName: MartinRunner
+  gitUrl: https://github.com/MartinRunner
+  gitUsername: MartinRunner
+  gitBranch: main
